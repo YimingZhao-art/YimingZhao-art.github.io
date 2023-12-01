@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Thrilling!
+title:  Paragliding
 date: 2023-05-04 15:25:00
-description: I am paragliding on the pacific ocean!
+description: I am flying over the pacific ocean!
 tags: formatting images
 categories: sample-posts
 ---
