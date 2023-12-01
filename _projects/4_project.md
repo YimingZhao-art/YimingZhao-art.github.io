@@ -3,8 +3,8 @@ layout: page
 title: Tritonlink
 description: A database management website
 img: assets/img/p7.png
-importance: 2
-category: Academic Project
+importance: 3
+category: work
 ---
 This is my project in database course.
 
