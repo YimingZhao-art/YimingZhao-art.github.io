@@ -32,25 +32,31 @@
   contents:
     - title: Research Assistant
       institution: University of Hong Kong
-      year: 2023.9 - current
+      year: 2023.9-
       description:
         - HKU-Cambridge AI-WiSe
-        - Supervisor: Prof. Victor O.K. Li
+        - Prof. Victor O.K. Li (Supervisor)
         - title: Job Description
           contents:
             - Established the server using Flask framework and Nginx for reverse proxy configuration to provide compute service APIs for software development and interaction with MySQL database
             - Collecting linguistic data for new Natural Language Processing research
     - title: Research Assistant
       institution: University of Hong Kong
-      year: 2023.3 - current
+      year: 2023.3-
       description:
-        - Supervisor: Dr. Hengshuang Zhao
+        - Dr. Hengshuang Zhao (Supervisor)
         - Customized the Open3D source codes and leveraged the perception model DinoV2 to fuse features while training
         - Integrating fused features with Pointcept models to demonstrate the interpretability of feature fusion
 
     - title: Software Engineer Intership
       institution: InnoSpire Std.
-      year: 2022.10 - 2022.12
+      year: 2022
+      description:
+        - Collected 3,000+ images for real-time banknote and staircase recognition for visually impaired app users
+        - Experimented with CNN and Microsoft Azure Cognitive model for recognition, achieved 95% accuracy
+
+
+      
 
 
 # - title: Open Source Projects
