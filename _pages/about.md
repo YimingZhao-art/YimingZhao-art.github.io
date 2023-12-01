@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>852 6333 7546</p>
-    <p>CB202, University of Hong Kong</p>
+    <p>CB202, HKU</p>
     <p>Hong Kong SAR</p>
 
 news: true  # includes a list of news items
